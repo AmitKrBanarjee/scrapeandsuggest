@@ -6,28 +6,48 @@ E-COMMERCE SCRAPING + RECOMMENDATION
 Packages needed to run the project(make sure you have all the latest up to date versions):
 
 os
-sys
-threading
-urllib,urllib.request, urllib.parse, urllib.error,urllib.request,urllib.error,urllib.parse,http.cookiejar
-smtplib
-ftplib
-datetime,time
-bs4
-re
-csv
-numpy
-PIL
-Image
-random
-pandas
-string
-html
-requests
-selenium
-fake_useragent
-rake_nltk
-sklearn
 
+sys
+
+threading
+
+urllib,urllib.request, urllib.parse, urllib.error,urllib.request,urllib.error,urllib.parse,http.cookiejar
+
+smtplib
+
+ftplib
+
+datetime,time
+
+bs4
+
+re
+
+csv
+
+numpy
+
+PIL
+
+Image
+
+random
+
+pandas
+
+string
+
+html
+
+requests
+
+selenium
+
+fake_useragent
+
+rake_nltk
+
+sklearn
 
 
 How to USE:
