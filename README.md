@@ -1,5 +1,7 @@
 # irproject
-Information retrieval course project.
+Information retrieval course project(team 17). 
+
+E-COMMERCE SCRAPING + RECOMMENDATION
 
 Packages needed to run the project(make sure you have all the latest up to date versions):
 
