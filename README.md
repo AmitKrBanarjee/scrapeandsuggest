@@ -1,5 +1,4 @@
-# irproject
-Information retrieval course project(team 17). 
+
 
 E-COMMERCE SCRAPING + RECOMMENDATION
 
